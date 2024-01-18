@@ -1,4 +1,4 @@
-![image](https://github.com/LittleFox0106/tju_nn_homework_ViT/assets/131020611/89d5a5b0-bf68-41f4-b93e-46eac8591fb5)![image](https://github.com/LittleFox0106/tju_nn_homework_ViT/assets/131020611/a0ca8c72-330a-491e-9788-1858006334ab)# 实验环境：
+# 实验环境：
 python3.8.10<br>
 PyTorch / 2.0.0 / 11.8 / 3.8<br>
 ubuntu20.04<br>
