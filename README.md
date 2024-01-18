@@ -1,4 +1,4 @@
-# 实验环境：
+![image](https://github.com/LittleFox0106/tju_nn_homework_ViT/assets/131020611/89d5a5b0-bf68-41f4-b93e-46eac8591fb5)![image](https://github.com/LittleFox0106/tju_nn_homework_ViT/assets/131020611/a0ca8c72-330a-491e-9788-1858006334ab)# 实验环境：
 python3.8.10<br>
 PyTorch / 2.0.0 / 11.8 / 3.8<br>
 ubuntu20.04<br>
@@ -20,10 +20,10 @@ Cifar-10数据集分为两部分，一部分train标签为true是训练集，一
 终端运行代码并将代码结果输入到cifar-10.txt中：python ViT.py > cifar-10.txt
 
 # 初始参数配置：
-轮数epoch：10
-卷积层数：2
-卷积层大小num_filters_conv：3,64,128
-batch_size：64
+轮数epoch：10<br>
+卷积层数：2<br>
+卷积层大小num_filters_conv：3,64,128<br>
+batch_size：64<br>
 归一化：无归一化
 
 # 预期正常输出（以初始参数配置为例）：
